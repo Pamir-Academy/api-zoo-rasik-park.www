@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /
+Disallow: /select
+Disallow: /select
+Disallow: /find
+Disallow: /user
+Disallow: /reset
